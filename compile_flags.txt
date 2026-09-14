@@ -1,0 +1,5 @@
+-Iinclude
+-Ithird_party
+-Ithird_party/imgui
+-Ithird_party/imgui/backends
+-std=c++14
